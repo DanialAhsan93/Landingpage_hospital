@@ -1,0 +1,6 @@
+{
+    "emmet.useInlineCompletions": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}

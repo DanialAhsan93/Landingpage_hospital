@@ -1,0 +1,11 @@
+.card:hover .rounded-full{
+   background-color: #fc724d;
+   color: white;
+   transition: all .3s ease-in-out;
+
+}
+.card:hover .cancer,
+.card:hover .p-cancer{
+    color: #fc724d;
+    transition: all .3s ease-in-out;
+}
