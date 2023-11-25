@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Landingpage_hospital/static/css/main.2cca71b4.css",
+    "main.js": "/Landingpage_hospital/static/js/main.c9d30410.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Landingpage_hospital/static/js/787.28cb0dcd.chunk.js",
+    "static/media/herocover.png": "/Landingpage_hospital/static/media/herocover.07838d748160175a7efe.png",
+    "static/media/hero.png": "/Landingpage_hospital/static/media/hero.18ae8bc0944e60cc5941.png",
+    "static/media/activity.png": "/Landingpage_hospital/static/media/activity.3e4593213205f96ccc23.png",
+    "static/media/courses1.png": "/Landingpage_hospital/static/media/courses1.96733e326d1a4d7625ac.png",
+    "static/media/courses3.png": "/Landingpage_hospital/static/media/courses3.c847d3eb523418a72312.png",
+    "static/media/courses2.png": "/Landingpage_hospital/static/media/courses2.0c551b45ae5a45cd3463.png",
+    "static/media/courses4.png": "/Landingpage_hospital/static/media/courses4.e24b5e080ff6c7aa798f.png",
+    "static/media/teamcard3.svg": "/Landingpage_hospital/static/media/teamcard3.753dc284f6060074d08bb35eeb577811.svg",
+    "static/media/testimonialscover1.png": "/Landingpage_hospital/static/media/testimonialscover1.0614fdb187a9a31340c5.png",
+    "static/media/teamcard1.svg": "/Landingpage_hospital/static/media/teamcard1.41364617997db41cd0a2c60be2965a10.svg",
+    "static/media/testimonialscover2.png": "/Landingpage_hospital/static/media/testimonialscover2.139176952e98ade4c5f0.png",
+    "static/media/teamcard4.svg": "/Landingpage_hospital/static/media/teamcard4.9c6ce5bb9aa0590a643594dea4a19eec.svg",
+    "static/media/teamcard2.svg": "/Landingpage_hospital/static/media/teamcard2.b2fee0cb0248b66b14b2f379f7ccc620.svg",
+    "static/media/card1.svg": "/Landingpage_hospital/static/media/card1.fbb2c804604529cf6bf1089253e1b7d1.svg",
+    "static/media/card2.svg": "/Landingpage_hospital/static/media/card2.240717856438e221e89b3f29910ec7f4.svg",
+    "static/media/card4.svg": "/Landingpage_hospital/static/media/card4.1e5c6cad43893d6129d24ca7d3334c82.svg",
+    "index.html": "/Landingpage_hospital/index.html",
+    "main.2cca71b4.css.map": "/Landingpage_hospital/static/css/main.2cca71b4.css.map",
+    "main.c9d30410.js.map": "/Landingpage_hospital/static/js/main.c9d30410.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Landingpage_hospital/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cca71b4.css",
+    "static/js/main.c9d30410.js"
+  ]
+}
